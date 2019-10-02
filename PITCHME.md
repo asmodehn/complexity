@@ -13,26 +13,21 @@
 
 ---
 
-## One example with points on a surface (the simple 2D case)
+## One example with points on a surface (simple 2D)
 
 ---
 
-@snap[north span-75]
 ![](assets/complx_point.png)
-@snapend
 
 ## 1 point
 
 ---
 
-
 ![](assets/complx_points.png)
 
 ## 82 points (really ?)
 
-
 ---
-
 
 ![](assets/complx_color_points.png)
 
@@ -43,9 +38,7 @@
 
 ![](assets/complx_color_points_tri.png)
 
-
 ## 20 points (really ? more colors ?) in a triangle (really ? )
-
 
 
 ---
@@ -100,8 +93,12 @@ Simplification can be useful or totally useless.
 If the context is unknown, it can make things harder to understand / more complex instead.
 
 How about you did not know :
+
+@ul[spaced]
 - what a 'point' is ?
-- what a '1' is ? or '23' ? or ...
+- what a '1' is ?
+- what a 'G' is ?
+@ulend
 
 ---
 
@@ -117,36 +114,44 @@ This is what an "algorithm" is.
 
 # Math
 
-Science is the process of doubting everything to extract knowledge from the world.
-That knowledge can then be transferred to others so they can use it.
-Math is the toolbox to express that knowledge so it can be transferred.
-
+@ul[spaced]
+- Science is the process of doubting everything to extract knowledge from the world.
+- That knowledge can then be transferred to others so they can use it.
+- Math is the toolbox to express that knowledge so it can be transferred.
+@ulend
 ---
 
 ## Math as Mental representation
 
-Math also helps to transfer knowledge from you&now, to you&tomorrow.
-We do it instinctively all the time, because it is the only way for us to "understand" things and survive.
+Math also helps to transfer knowledge from you *now*, to you *tomorrow*.
+We do it instinctively all the time.
 The trick is just to become aware of it.
 
 ---
 
-## Math is everywhere. You already know some of it.
+## Math is everywhere. You already know it.
 
-Do you know : 
+Do you know :
+
+@ul[spaced]
 - what '8' means ? 
-- what 'VIII' means ? need some context maybe ?
+- what 'VIII' means ? need context ?
 - what '12 - 4' means ?
-- what 'sqrt(64)' means ? need some context maybe ?
+- what 'sqrt(64)' means ? need context ?
+@ulend
 
 ---
 
 ## Advanced Math Knowledge is required in a complex world
  If we want to survive in a complex world
- 
-- what does '20 % of 10 euros' means ? it's the extra tax you pay when you buy something for 10 euros.
-- what does '1/2 * m * square(mv) ? it is the damage done when a car crashes into a wall.
+
+@ul[spaced]
+- what does '1/2 * m * square(mv) means ? Physics
+- what does ' CH4 + O2 -> 4H + CO2 ' means ? Chemistry
+- what does '20 % of 10 euros' means ? Commerce
+- what does ' if rain then take umbrella ' ? Everyday Logic
 - ...
+@ulend
 
 ---
 
@@ -165,25 +170,39 @@ Do you know :
 ##  A relatively (1945) recent challenger
 
 Category Theory : 
-- simple ( object and morphisms / points and arrows )
+- simple ( points and arrows )
 - powerful ( many known theories have been derived from it already )
 
-It can describe the essence of compositionality in a well defined context
-AND it can describe how to compose these contexts together to form more complex contexts
 
+---
+
+## Category Theory
+
+Categories represent abstractions of other mathematical concepts. Many areas of mathematics can be formalised by category theory as categories. ( Wikipedia )
+
+It can describe compositionality in a context (a category)
+AND it can describe how to compose these contexts to form more complex contexts.
+
+The category of all categories is a category *Cat*
 ---
 
 ## Take the time to think, ponder on 'stupid' questions :
 
-- what is 0 in roman numerals ? why ?
+@ul[spaced]
+- what is 0 ? in roman numerals ?
 - what is -2 apple ? why ?
 - what is 4 parts of one cake ? what if I take 0.5 part ? double cake ?
-- why when holding spaghetti on both sides and twisting your wrist, the spaghetti break in 3 pieces always ?
+@ulend
 
+---
 
+## Go Forth and Do Math
 
-
-
+@ul[spaced]
+- why is the sky blue ?
+- why spaghetti are usually breaking in 3 or more pieces ?
+- ...
+@ulend
 
 
 
