@@ -31,7 +31,6 @@
 
 ![](assets/complx_color_points.png)
 
-
 ## 16 R, 17 G, 17 B, 30 N (???)
 
 ---
@@ -40,13 +39,11 @@
 
 ## 20 points (?) in a triangle (?)
 
-
 ---
 
 ## Another example with shapes drawn on a surface (still 2D)
 
 ---
-
 
 ![](assets/complx_square.png)
 
@@ -94,7 +91,7 @@ How about you did not know :
 
 @ul[spaced]
 - what a 'point' is ?
-- what a '1' is ?
+- what a '80' is ?
 - what a 'G' is ?
 @ulend
 
@@ -103,9 +100,10 @@ How about you did not know :
 ## In that Context, we can then decompose
 
 Example: 
-- in *2D*
 - I saw *points*
 - of *4* *colors*
+
+Though this process we identified *abstractions* of a complex 'thing'.
 
 ---
 
@@ -160,7 +158,7 @@ Do you know :
 
 ---
 
-## Advanced Math Knowledge in a complex world
+## 'Advanced' Math Knowledge
 
 Required if we want to survive in a complex world
 
@@ -174,7 +172,7 @@ Required if we want to survive in a complex world
 
 ---
 
-## Math has a few simple theories from which others are derived.
+## Math has a few foundational theories.
 
 - Arithmetic
 - Logic
@@ -188,7 +186,7 @@ Required if we want to survive in a complex world
 
 ##  A relatively (1945) recent challenger
 
-![Diagram](https://en.wikipedia.org/wiki/Category_theory#/media/File:Commutative_diagram_for_morphism.svg)
+![Diagram](assets/200px-Commutative_diagram_for_morphism.svg.png)
 
 Category Theory : 
 - simple ( points and arrows )
@@ -213,17 +211,18 @@ Think, experiment, ponder on 'stupid' questions :
 @ul[spaced]
 - what is 0 ? in roman numerals ?
 - what is -2 apple ? why ?
-- what is 4 parts of one cake ? what if I take 0.5 part ? double cake ?
+- what is 4 slices of a cake ? what if I take 0.5 slices ? double cake ?
 @ulend
 
 ---
 
-## Go Forth and Do Math
+## Go Forth and Do Science
 
 @ul[spaced]
 - why is the sky blue ?
 - Ever tried to break a spaghetti in 2 pieces ?
-...
+- Can every even integer (> 2) be expressed as the *sum* of two primes ? (Goldbach)
+- ...
 @ulend
 
 
