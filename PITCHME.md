@@ -117,13 +117,13 @@ This is done with an "algorithm".
 
 ---
 
-## Complex things also needs a way to decompose
+## Complex things needs to be decomposed
 
 This is also done with an "algorithm".
 - what we recomposed needs to be compared to original
 - what we got should decompose again to the same core 'things'
 
-=> We usually want *determinist* algorithms for our limited understanding.
+=> We usually want *determinist* algorithms.
 
 ---
 
@@ -163,7 +163,7 @@ Do you know :
 Required if we want to survive in a complex world
 
 @ul[spaced]
-- what does '1/2 * m * square(mv) means ?
+- what does '1/2 * m * square(v)' means ?
 - what does 'CH4 + 2 O2 -> CO2 + 2 H2O' means ?
 - what does 'if rain then take umbrella ' ?
 - what does '20 % of 10 euros' means ?
@@ -211,7 +211,9 @@ Think, experiment, ponder on 'stupid' questions :
 @ul[spaced]
 - what is 0 ? in roman numerals ?
 - what is -2 apple ? why ?
-- what is 4 slices of a cake ? what if I take 0.5 slices ? double cake ?
+- what is 1/4 of a cake ?
+- so if I take 1/0.5 slices, I get double cake ?
+- ...
 @ulend
 
 ---
