@@ -17,7 +17,9 @@
 
 ---
 
+@snap[north span-75]
 ![](assets/complx_point.png)
+@snapend
 
 ## 1 point
 
@@ -51,7 +53,7 @@
 
 ## Another example with shapes drawn on a surface (still simple 2D)
 
-
+Note how we forget this is a fat blue line that makes what we decided to call a 'shape'
 ---
 
 
@@ -95,10 +97,11 @@ Simplification can be useful or totally useless.
 
 ## Simplification requires a Context
 
-If the context is unknown, it can make things more complex instead.
+If the context is unknown, it can make things harder to understand / more complex instead.
 
-- How about you did not know what a 'point' is ?
-- How about you did not know what a '1' is ? or '23' ? or ...
+How about you did not know :
+- what a 'point' is ?
+- what a '1' is ? or '23' ? or ...
 
 ---
 
@@ -120,7 +123,7 @@ Math is the toolbox to express that knowledge so it can be transferred.
 
 ---
 
-# Math as Mental representation
+## Math as Mental representation
 
 Math also helps to transfer knowledge from you&now, to you&tomorrow.
 We do it instinctively all the time, because it is the only way for us to "understand" things and survive.
@@ -128,7 +131,7 @@ The trick is just to become aware of it.
 
 ---
 
-# Math Knowledge is mandatory in the world
+## Math is everywhere. You already know some of it.
 
 Do you know : 
 - what '8' means ? 
@@ -138,16 +141,16 @@ Do you know :
 
 ---
 
-# Advanced Math Knowledge is required
+## Advanced Math Knowledge is required in a complex world
  If we want to survive in a complex world
  
-- what does '20 % of P' means ? it s the tax you pay when you buy something.
+- what does '20 % of 10 euros' means ? it's the extra tax you pay when you buy something for 10 euros.
 - what does '1/2 * m * square(mv) ? it is the damage done when a car crashes into a wall.
 - ...
 
 ---
 
-# Math has a few simple theories from which others are derived.
+## Math has a few simple theories from which others are derived.
 
 - Arithmetic
 - Logic
@@ -159,7 +162,7 @@ Do you know :
 
 ---
 
-#  A relatively (1945) recent challenger
+##  A relatively (1945) recent challenger
 
 Category Theory : 
 - simple ( object and morphisms / points and arrows )
@@ -170,11 +173,11 @@ AND it can describe how to compose these contexts together to form more complex 
 
 ---
 
-# Take the time to think, ponder on 'stupid' questions :
+## Take the time to think, ponder on 'stupid' questions :
 
 - what is 0 in roman numerals ? why ?
 - what is -2 apple ? why ?
-- what is 4 parts of one cake ? what if I take 0 part ? infinity cake ?
+- what is 4 parts of one cake ? what if I take 0.5 part ? double cake ?
 - why when holding spaghetti on both sides and twisting your wrist, the spaghetti break in 3 pieces always ?
 
 
