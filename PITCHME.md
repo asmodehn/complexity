@@ -25,58 +25,56 @@
 
 ![](assets/complx_points.png)
 
-## 82 points (really ?)
+## 82 (?) points
 
 ---
 
 ![](assets/complx_color_points.png)
 
 
-## 16 R, 17 G, 17 B, 30 N points (really ? more colors ?)
+## 16 R, 17 G, 17 B, 30 N (???)
 
 ---
 
 ![](assets/complx_color_points_tri.png)
 
-## 20 points (really ? more colors ?) in a triangle (really ? )
+## 20 points (?) in a triangle (?)
 
 
 ---
 
+## Another example with shapes drawn on a surface (still 2D)
 
-## Another example with shapes drawn on a surface (still simple 2D)
-
-Note how we forget this is a fat blue line that makes what we decided to call a 'shape'
 ---
 
 
 ![](assets/complx_square.png)
 
-## A square
+# A square
 
 ---
 
 ![](assets/complx_shape.png)
 
-## A square with a triangle on top and circle on right side
+## A square with a triangle on the top and circle on the right
 
 ---
 
 ![](assets/complx_cplxshape.png)
 
-## Something (???), looks like part of a circle on right side... a hand ? a country ?
+### Something (???), looks like... a hand ? a country ?
 
 ---
 
 ![](assets/complx_chaoshape.png)
 
-## No idea...
+#### No idea...
 
 ---
 
 ## What did we do ? we express what we see in language and :
-- we simplify & omit details
-- we decompose in smaller / simpler parts
+- we simplify & omit details (I just see a fat blue line !)
+- we decompose in smaller / simpler parts (what is a 'square ?)
 
 ---
 
@@ -102,13 +100,32 @@ How about you did not know :
 
 ---
 
-### Decomposition needs a "system"/"process" to recompose
+## In that Context, we can then decompose
 
-This is what an "algorithm" is.
+Example: 
+- in *2D*
+- I saw *points*
+- of *4* *colors*
+
+---
+
+## Decomposition needs a way to recompose
+
+This is done with an "algorithm".
 - Algorithms can also be very complex in themselves.
 - Algorithms need a context in which they can be expressed simply enough
 
 => Algorithms need to be understood to be reused and be useful.
+
+---
+
+## Complex things also needs a way to decompose
+
+This is also done with an "algorithm".
+- what we recomposed needs to be compared to original
+- what we got should decompose again to the same core 'things'
+
+=> We usually want *determinist* algorithms for our limited understanding.
 
 ---
 
@@ -119,6 +136,7 @@ This is what an "algorithm" is.
 - That knowledge can then be transferred to others so they can use it.
 - Math is the toolbox to express that knowledge so it can be transferred.
 @ulend
+
 ---
 
 ## Math as Mental representation
@@ -142,14 +160,15 @@ Do you know :
 
 ---
 
-## Advanced Math Knowledge is required in a complex world
- If we want to survive in a complex world
+## Advanced Math Knowledge in a complex world
+
+Required if we want to survive in a complex world
 
 @ul[spaced]
-- what does '1/2 * m * square(mv) means ? Physics
-- what does ' CH4 + O2 -> 4H + CO2 ' means ? Chemistry
-- what does '20 % of 10 euros' means ? Commerce
-- what does ' if rain then take umbrella ' ? Everyday Logic
+- what does '1/2 * m * square(mv) means ?
+- what does 'CH4 + 2 O2 -> CO2 + 2 H2O' means ?
+- what does 'if rain then take umbrella ' ?
+- what does '20 % of 10 euros' means ?
 - ...
 @ulend
 
@@ -169,10 +188,11 @@ Do you know :
 
 ##  A relatively (1945) recent challenger
 
+![Diagram](https://en.wikipedia.org/wiki/Category_theory#/media/File:Commutative_diagram_for_morphism.svg)
+
 Category Theory : 
 - simple ( points and arrows )
-- powerful ( many known theories have been derived from it already )
-
+- powerful ( generates known theories )
 
 ---
 
@@ -184,9 +204,11 @@ It can describe compositionality in a context (a category)
 AND it can describe how to compose these contexts to form more complex contexts.
 
 The category of all categories is a category *Cat*
+
 ---
 
-## Take the time to think, ponder on 'stupid' questions :
+## Take the time
+Think, experiment, ponder on 'stupid' questions :
 
 @ul[spaced]
 - what is 0 ? in roman numerals ?
@@ -200,8 +222,8 @@ The category of all categories is a category *Cat*
 
 @ul[spaced]
 - why is the sky blue ?
-- why spaghetti are usually breaking in 3 or more pieces ?
-- ...
+- Ever tried to break a spaghetti in 2 pieces ?
+...
 @ulend
 
 
