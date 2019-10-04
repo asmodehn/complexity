@@ -41,6 +41,13 @@
 
 ---
 
+## Cynefin - System Complexity.
+
+![](assets/Cynefin_black.png)
+
+---
+
+
 ## Another example with shapes drawn on a surface (still 2D)
 
 ---
@@ -132,7 +139,7 @@ This is also done with an "algorithm".
 @ul[spaced]
 - Science is the process of doubting everything to extract knowledge from the world.
 - That knowledge can then be transferred to others so they can use it.
-- Math is the toolbox to express that knowledge so it can be transferred.
+- Math is the toolbox to express that knowledge so that it can be transferred.
 @ulend
 
 ---
