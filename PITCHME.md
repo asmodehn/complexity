@@ -49,19 +49,21 @@
 ---
 
 @snap[west]
-Indeterminism
+Unrelated
+
+Events
 @snapend
 
-@snap[north]
 ![](assets/Cynefin_black.png)
-@snapend
 
 @snap[south]
 Mind the gap
 @snapend
 
 @snap[east]
-Determinism
+Cause
+ |
+Effects
 @snapend
 
 ---
