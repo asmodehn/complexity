@@ -41,9 +41,22 @@
 
 ---
 
-## Cynefin - System Complexity.
+
+## More general, talking about Systems
+## Cynefin
+
+
+---
+
+@snap[west]
+Randomness
+@snapend
 
 ![](assets/Cynefin_black.png)
+
+@snap[east]
+Causality
+@snapend
 
 ---
 
