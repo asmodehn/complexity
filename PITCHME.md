@@ -49,13 +49,14 @@
 ---
 
 @snap[west]
-Randomness
+Indeterminism
 @snapend
 
 ![](assets/Cynefin_black.png)
+Mind the gap
 
 @snap[east]
-Causality
+Determinism
 @snapend
 
 ---
