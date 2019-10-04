@@ -62,7 +62,6 @@ Mind the gap
 
 @snap[east]
 Cause
- |
 Effects
 @snapend
 
